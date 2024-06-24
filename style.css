@@ -37,6 +37,7 @@
 /* Div About Me */
 .content-me {
     width: 450px;
+    height: 505px;
     padding: 5px;
     position: absolute;
     border: 1px solid black;
@@ -45,7 +46,23 @@
     margin-top: -522px;
 }
 
+/* Text About Me */
 .title-h2 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.p-me {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* Div Education */
+.content-edu {
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
 }
