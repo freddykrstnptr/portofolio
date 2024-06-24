@@ -1,0 +1,51 @@
+/* Div Utama */
+.container {
+    margin: auto;
+    width: 800px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+/* Div Image Bio */
+.content-image {
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+/* Image Bio */
+.myimage {
+    width: 300px;
+    border-radius: 20px;
+}
+
+/* Text Name and Status */
+.p-name {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.p-student {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* Div About Me */
+.content-me {
+    width: 450px;
+    padding: 5px;
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 332px;
+    margin-top: -522px;
+}
+
+.title-h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
