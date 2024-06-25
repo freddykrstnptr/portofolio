@@ -66,3 +66,110 @@
     border-radius: 10px;
     border: 1px solid black;
 }
+
+
+/* Text Eduvation */
+.p-edu {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+
+/* Div Experience */
+.content-exp {
+    width: 450px;
+    height: 903px;
+    padding: 5px;
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 332px;
+    margin-top: -563px;
+}
+
+
+/* Text Experience */
+.p-exp {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+
+
+/* Div Skills*/
+.content-skl {
+    width: 300px;
+    height: 330px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+
+/* Text Skills */
+.p-skl {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+
+/* Div Fouter */
+.fouter {
+    width: 767px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+
+/* Div Email Fouter */
+.email-fouter {
+    width: 200px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+/* Div Telephone Fouter */
+.tele-fouter {
+    width: 200px;
+    position: absolute;
+    margin-left: 269px;
+    margin-top: -126px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+/* Div Address Fouter */
+.add-fouter {
+    width: 200px;
+    position: absolute;
+    margin-left: 539px;
+    margin-top: -126px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.email-fouter span, .tele-fouter span, .add-fouter span {
+    font-size: 40px; /* Ukuran ikon */
+    display: flex; /* Menggunakan flexbox */
+    justify-content: center; /* Memusatkan ikon secara horizontal */
+    align-items: center; /* Memusatkan ikon secara vertikal */
+}
+
+
+/* Text Fouter */
+.p-fouter {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
